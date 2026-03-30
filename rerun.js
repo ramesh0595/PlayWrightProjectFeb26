@@ -9,9 +9,8 @@ default:{
    ],
    format:[
     "progress",
-    "json:reports/cucumber-report.json",
-      "html:reports/cucumber-report.html",
-      "junit:reports/cucumber-report.xml"
+    "json:reports/cucumber-report.json"
+      
    ]
 
 }
